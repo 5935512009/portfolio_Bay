@@ -1,5 +1,6 @@
+import './main.css'
 export default function Main(){
     return(<>
-            main
+    <h3 className="mainNews">main </h3>        
         </>)
 }
