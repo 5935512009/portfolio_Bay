@@ -1,6 +1,9 @@
+import './navbar.css'
 function Narbar(){
     return(<>
-        Narbar
+        <section className="navbar">
+                navbar
+            </section>
     </>)
 }
 export default Narbar;
