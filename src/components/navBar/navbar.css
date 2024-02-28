@@ -1,4 +1,21 @@
 .navbar{
     color: black;
     border: 2px solid gray;
+    margin: 3px ;
+    border-radius: 3px ;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+}
+ul ,li{
+    list-style-type: none;
+    display: flex;
+    margin: 1px;
+}
+li{
+    margin: 3px;
+}
+
+.webName, .login{
+    margin: 3px;
 }
